@@ -3,6 +3,8 @@ Windows 95 in a portable EXE meant for gaming!
 
 VirusTotal Scan - https://www.virustotal.com/gui/url/c82a07e89ec47b730eb171d0ae2c0076b55f0fc013f148cff4b1252a8154dce7?nocache=1
 
+Download From Github - https://github.com/COTYWALT/P-95-Pocket-95/raw/main/Pocket%2095.exe
+
 READ IMPORTANT AT THE BOTTOM OF THIS README.
 
 Demo - https://youtu.be/tzkzBrzmLhs
